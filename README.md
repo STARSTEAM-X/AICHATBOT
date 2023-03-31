@@ -17,7 +17,7 @@ pip install pickle
 py Traindata.py to  Train AIChatbot
 py AIChat.py to  Chat
 ```
-## credit
+## Credit
 ```
 https://www.youtube.com/watch?v=wypVcNIH6D4&list=PLzMcBGfZo4-ndH9FoC4YWHGXG5RZekt-Q
 ```
